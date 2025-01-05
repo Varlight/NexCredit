@@ -41,24 +41,24 @@ NeXscore is a next-generation credit risk assessment platform that combines trad
 ### Installation
 
 1. Clone the repository
-   \```bash
+   ```bash
    git clone https://github.com/yourusername/nexscore.git
-   \```
+   ```
 
 2. Install dependencies
-   \```bash
+   ```bash
    cd nexscore
    npm install
-   \```
+   ```
 
 3. Run the development server
-   \```bash
+   ```bash
    npm run dev
-   \```
+   ```
 
 ## 📁 Project Structure
 
-\```
+```
 src/
 ├── app/           # Next.js app directory
 ├── components/    # React components
@@ -70,15 +70,15 @@ src/
 └── services/     # API and services
     ├── api/      # API endpoints
     └── scoring/  # Scoring logic
-\```
+```
 
 ## 🔧 Configuration
 
 Create a \`.env.local\` file in the root directory:
 
-\```env
+```env
 NEXT_PUBLIC_API_URL=your_api_url
-\```
+```
 
 ## 📝 Usage
 
