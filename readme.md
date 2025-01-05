@@ -104,14 +104,14 @@ NEXT_PUBLIC_API_URL=your_api_url
 - [x] Transaction parsing
 - [x] Basic scoring implementation
 - [ ] Advanced ML model integration
-- [ ] Complete API documentation
+- [ ] Complete social media api integrations (x,linkedin,facebook,instagram)
 
 ## 📈 Future Enhancements
 
 ### 1. Enhanced ML Model
 - Improved prediction accuracy
 - More sophisticated feature engineering
-- Additional data source support
+- Additional data source support (social media)
 
 ### 2. Advanced Features
 - Real-time monitoring
