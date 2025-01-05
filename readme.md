@@ -125,6 +125,8 @@ NEXT_PUBLIC_API_URL=your_api_url
 
 
 
+## ScreenShot
+![Screenshot (574)](https://github.com/user-attachments/assets/12407b0b-684f-4345-8c86-e4c1d79b14ef)
 
 
 ## 📄 License
